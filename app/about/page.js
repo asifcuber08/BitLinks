@@ -7,7 +7,7 @@ const About = () => {
         <h1 className="text-3xl font-bold mb-4 text-black">About Our URL Shortener</h1>
         <p className="text-lg mb-4">
           Our URL shortener helps you convert long and messy URLs into short, easy-to-share links.
-          Whether you're a developer, marketer, or casual user, our tool simplifies link sharing
+          Whether you&#39;re a developer, marketer, or casual user, our tool simplifies link sharing
           while tracking valuable analytics.
         </p>
         <p className="text-lg mb-4">

@@ -6,8 +6,8 @@ const Contact = () => {
       <div className="max-w-xl w-full bg-white shadow-lg rounded-2xl p-8 border border-purple-200">
         <h1 className="text-3xl font-bold mb-6 text-black">Contact Us</h1>
         <p className="mb-6 text-lg">
-          Have questions, feedback, or suggestions? We'd love to hear from you!
-          Fill out the form below and we'll get back to you as soon as possible.
+          Have questions, feedback, or suggestions? We&#39;d love to hear from you!
+          Fill out the form below and we&#39;ll get back to you as soon as possible.
         </p>
         <form className="space-y-4">
           <div>
